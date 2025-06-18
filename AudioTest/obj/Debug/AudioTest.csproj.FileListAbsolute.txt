@@ -1,0 +1,114 @@
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\AudioTest.exe.config
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\AudioTest.exe
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\AudioTest.pdb
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.Asio.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.Core.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.Midi.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.Wasapi.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.WinForms.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.WinMM.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Security.AccessControl.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.Asio.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.Core.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.Midi.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.Wasapi.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.WinForms.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\NAudio.WinMM.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.csprojAssemblyReference.cache
+C:\Users\jedim\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.Properties.Resources.resources
+C:\Users\jedim\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.csproj.GenerateResource.cache
+C:\Users\jedim\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.csproj.CoreCompileInputs.cache
+C:\Users\jedim\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.csproj.CopyComplete
+C:\Users\jedim\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.exe
+C:\Users\jedim\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.pdb
+C:\Users\jedim\source\repos\AudioTest\AudioTest\obj\Debug\AudioTest.Form1.resources
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\MediaToolkit.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\FFMpegCore.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\Instances.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Buffers.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Memory.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Text.Json.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.ValueTuple.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Buffers.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Memory.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Text.Json.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\System.ValueTuple.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\Xabe.FFmpeg.dll
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jedim\source\repos\AudioTest\AudioTest\bin\Debug\Xabe.FFmpeg.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\AudioTest.exe.config
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\AudioTest.exe
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\AudioTest.pdb
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\FFMpegCore.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\Instances.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\MediaToolkit.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\Microsoft.Win32.Registry.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.Asio.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.Core.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.Midi.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.Wasapi.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.WinForms.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.WinMM.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\Newtonsoft.Json.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Buffers.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Memory.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Numerics.Vectors.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Security.AccessControl.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Security.Principal.Windows.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Text.Encodings.Web.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Text.Json.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.ValueTuple.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\Xabe.FFmpeg.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\Microsoft.Win32.Registry.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.Asio.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.Core.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.Midi.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.Wasapi.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.WinForms.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\NAudio.WinMM.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\Newtonsoft.Json.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Buffers.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Memory.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Numerics.Vectors.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Security.AccessControl.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Security.Principal.Windows.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Text.Encodings.Web.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Text.Json.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\Xabe.FFmpeg.xml
+D:\VS Projects\AudioTest\AudioTest\obj\Debug\AudioTest.csproj.AssemblyReference.cache
+D:\VS Projects\AudioTest\AudioTest\obj\Debug\AudioTest.exe.config
+D:\VS Projects\AudioTest\AudioTest\obj\Debug\AudioTest.Form1.resources
+D:\VS Projects\AudioTest\AudioTest\obj\Debug\AudioTest.Properties.Resources.resources
+D:\VS Projects\AudioTest\AudioTest\obj\Debug\AudioTest.csproj.GenerateResource.cache
+D:\VS Projects\AudioTest\AudioTest\obj\Debug\AudioTest.csproj.CoreCompileInputs.cache
+D:\VS Projects\AudioTest\AudioTest\obj\Debug\AudioTest.csproj.Up2Date
+D:\VS Projects\AudioTest\AudioTest\obj\Debug\AudioTest.exe
+D:\VS Projects\AudioTest\AudioTest\obj\Debug\AudioTest.pdb
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.IO.Pipelines.dll
+D:\VS Projects\AudioTest\AudioTest\bin\Debug\System.IO.Pipelines.xml
