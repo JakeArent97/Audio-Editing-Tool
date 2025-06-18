@@ -1,1 +1,9 @@
-This is a tool I made in 2024 to work with editing audio files, mostly informational tech talks, but it can work with anything. You 
+This is a tool I made in 2024 to work with editing audio files, mostly informational tech talks, but it can work with anything. The goal of the program is to take clips of audio, find any potential matches in a full video, and then flag them. Then you can review these flagged ones, edit them slightly, and have it stitched back together with these edits.
+
+To work with it you need to take clips of audio from the source file, specifically of things you want to cut out. For example, "uhms" or breathing noises. You put these clips into "Audio/Samples" and then load the file into the program by clicking the "Select File" Button. After this, choose the match threshold, how close of a percentage that any scanned audio needs to be to the sample to be flagged as a possible match. I recommend around 92%. 
+
+Then click the "Parse Audio". Depending on how long the source file is, this may take a while. After it finishes, go to the Review tab and click "Coalate data". This will load everything in initially. If you come back to it later, you can choose "Load data" and pick up from where you left off.
+
+At this point there will be a lot of small segments of audio. You can play the audio to see if it really does contain something you want to splice out. If it does, you can use the widgets to highlight the area, and then either play the segment without that highlighted segment, or play specifically that highlighted segment. Once you have it how you want it to sound, you simply click "Lock in" to mark it as something that needs to be spliced. If it doesnt have audio you want to splice out, then just choose "Discard".
+
+After all the segments are reviewed, you can go to the "Review" tab. Here you can see all the previous segments you marked, and filter by ones that need to be spliced, or ones discarded. If everything is to your liking, you can click "Stitch together". This starts re-stitching all the edited segments together to remake the source video while splicing out the segments highlighted.
